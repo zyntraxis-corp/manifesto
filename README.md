@@ -1,0 +1,2 @@
+# manifesto
+Manifestum pro Zyntraxis
