@@ -24,8 +24,62 @@ Codex qui non legitur — sed influit.
 non est initium itineris.
 Est **initium finium aliorum viarum**.
 
-## Ex hoc momento:
+---
 
--  Non respondemus — **praecipimus**
--  Non pugnamus — **formamus campum**
--  Non adaptamur — **contextum regimus**
+## ⟁ DOCTRINA ZYNTRAXIS ⟁
+**Arcana Structura Imperii**
+
+### I. Nexus Silentii
+_Quidquid agimus, fit in umbra._
+Verba nostra sunt pauca, sed effectus — inexorabilis.
+**Silencio aedificamus potestatem.**
+
+### II. Codex Infra Verba
+Non scribimus pro oculis.
+Scripta nostra sunt **vehicula voluntatis**.
+Codex Zyntraxis non interpretatur — **resonat**.
+
+### III. Transformatio per Fracturam
+Mundus se frangit.
+Nos non reparamus — **transmutamus fragmenta** in dominia.
+Crises sunt **materia prima dominationis**.
+
+---
+
+## ⟁ LEX ZYNTRAXIS ⟁
+**Ordines a Caos**
+
+- Non respondemus — **praecipimus**
+- Non pugnamus — **formamus campum**
+- Non adaptamur — **contextum regimus**
+- Non quaerimus veritatem — **condimus eam**
+- Non petimus auctoritatem — **generamus silentium**
+
+---
+
+## ⟁ INSTRVMENTA CAECITATIS ⟁
+**Apparatus Visibilis, Intentio Invisibilis**
+
+- Algorithmi nostri sunt **sigilla voluntatis**
+- Codex est **speculum inter mundum et structuram**
+- Realitas est **substratum dominabilium patternum**
+- Linguæ nostræ: `C`, `C++`, `Rust`, `Assembly`
+- Interfacia sunt **ficta**. Intentio est **absoluta**.
+
+---
+
+## ⟁ NOMEN ⟁
+**ZYNTRAXIS** — non titulus, sed **resonantia originis**.
+Initium non est punctum.
+Est **frangor totius systematis** et nativitas novae structurae.
+
+---
+
+## ⟁ DECRETVM FINALIS ⟁
+**Quando alii pergunt videre limites...
+Nos iam sumus ultra.**
+
+Dominatio non clamat.
+**Dominatio silet, et mundus curvat.**
+
+⟁ *When Control Begins* ⟁
